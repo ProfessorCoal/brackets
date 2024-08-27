@@ -54,7 +54,7 @@
         "rewire": "1.1.2",
         "xmldoc": "^0.1.2",
         "grunt-cleanempty": "1.0.3",
-        "webpack": "2.2.1"
+        "webpack": "5.94.0"
     },
     "scripts": {
         "prepush": "npm run eslint",
